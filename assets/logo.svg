@@ -1,0 +1,10 @@
+<svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="S.H Webcraft logo">
+  <defs>
+    <linearGradient id="shwc-grad" x1="0" y1="0" x2="40" y2="40" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="38" height="38" rx="10" fill="#101526" stroke="url(#shwc-grad)" stroke-width="1.5"/>
+  <text x="20" y="24" text-anchor="middle" font-family="'Fira Code', ui-monospace, monospace" font-size="13" font-weight="700" fill="url(#shwc-grad)">&lt;SH/&gt;</text>
+</svg>
